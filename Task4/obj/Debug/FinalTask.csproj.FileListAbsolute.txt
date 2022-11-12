@@ -1,0 +1,8 @@
+C:\Store\C#\SF\WorkWithFiles\Task4\obj\Debug\FinalTask.csproj.AssemblyReference.cache
+C:\Store\C#\SF\WorkWithFiles\Task4\obj\Debug\FinalTask.csproj.SuggestedBindingRedirects.cache
+C:\Store\C#\SF\WorkWithFiles\Task4\obj\Debug\FinalTask.csproj.CoreCompileInputs.cache
+C:\Store\C#\SF\WorkWithFiles\Task4\bin\Debug\FinalTask.exe.config
+C:\Store\C#\SF\WorkWithFiles\Task4\bin\Debug\FinalTask.exe
+C:\Store\C#\SF\WorkWithFiles\Task4\bin\Debug\FinalTask.pdb
+C:\Store\C#\SF\WorkWithFiles\Task4\obj\Debug\FinalTask.exe
+C:\Store\C#\SF\WorkWithFiles\Task4\obj\Debug\FinalTask.pdb
